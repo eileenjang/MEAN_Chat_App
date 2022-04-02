@@ -1,3 +1,5 @@
+## Name : Hyoseo Jang
+
 ![Preview](./preview/desktop-preview.png)
 
 # Video Demo 
