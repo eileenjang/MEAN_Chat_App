@@ -4,6 +4,16 @@
 
 https://youtu.be/y4RAoWgSzXQ
 
+# Learning Diary
+
+File name: Software Development Full Stack_Learning Diary.docx
+->> It is in the repository !!! 
+
+# Material from Exercise
+
+File name: Material from the exercise projects.zip
+->> It is in the repository !!!
+
 
 # Getting started
 
