@@ -1,7 +1,8 @@
 ![Preview](./preview/desktop-preview.png)
 
-## Video Demo 
-- https://youtu.be/y4RAoWgSzXQ
+# Video Demo 
+
+https://youtu.be/y4RAoWgSzXQ
 
 
 # Getting started
